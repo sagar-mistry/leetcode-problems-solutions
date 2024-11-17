@@ -1,0 +1,14 @@
+C:\Users\smistry\source\repos\leetcode\leetcode.easy\bin\Debug\net8.0\leetcode.easy.exe
+C:\Users\smistry\source\repos\leetcode\leetcode.easy\bin\Debug\net8.0\leetcode.easy.deps.json
+C:\Users\smistry\source\repos\leetcode\leetcode.easy\bin\Debug\net8.0\leetcode.easy.runtimeconfig.json
+C:\Users\smistry\source\repos\leetcode\leetcode.easy\bin\Debug\net8.0\leetcode.easy.dll
+C:\Users\smistry\source\repos\leetcode\leetcode.easy\bin\Debug\net8.0\leetcode.easy.pdb
+C:\Users\smistry\source\repos\leetcode\leetcode.easy\obj\Debug\net8.0\leetcode.easy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\smistry\source\repos\leetcode\leetcode.easy\obj\Debug\net8.0\leetcode.easy.AssemblyInfoInputs.cache
+C:\Users\smistry\source\repos\leetcode\leetcode.easy\obj\Debug\net8.0\leetcode.easy.AssemblyInfo.cs
+C:\Users\smistry\source\repos\leetcode\leetcode.easy\obj\Debug\net8.0\leetcode.easy.csproj.CoreCompileInputs.cache
+C:\Users\smistry\source\repos\leetcode\leetcode.easy\obj\Debug\net8.0\leetcode.easy.dll
+C:\Users\smistry\source\repos\leetcode\leetcode.easy\obj\Debug\net8.0\refint\leetcode.easy.dll
+C:\Users\smistry\source\repos\leetcode\leetcode.easy\obj\Debug\net8.0\leetcode.easy.pdb
+C:\Users\smistry\source\repos\leetcode\leetcode.easy\obj\Debug\net8.0\leetcode.easy.genruntimeconfig.cache
+C:\Users\smistry\source\repos\leetcode\leetcode.easy\obj\Debug\net8.0\ref\leetcode.easy.dll

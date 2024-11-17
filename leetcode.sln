@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34902.65
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{22405679-5DA6-4C6D-BF2F-97C768ABD148}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "leetcode.easy", "leetcode.easy\leetcode.easy.csproj", "{0E52C520-FAC4-4166-B717-8B9351C5B05C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "leetcode.datastructures", "leetcode.datastructures\leetcode.datastructures.csproj", "{0F572332-51F3-4A8C-9484-4076FF376ABC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0E52C520-FAC4-4166-B717-8B9351C5B05C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0E52C520-FAC4-4166-B717-8B9351C5B05C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0E52C520-FAC4-4166-B717-8B9351C5B05C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0E52C520-FAC4-4166-B717-8B9351C5B05C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0F572332-51F3-4A8C-9484-4076FF376ABC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0F572332-51F3-4A8C-9484-4076FF376ABC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0F572332-51F3-4A8C-9484-4076FF376ABC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0F572332-51F3-4A8C-9484-4076FF376ABC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{0E52C520-FAC4-4166-B717-8B9351C5B05C} = {22405679-5DA6-4C6D-BF2F-97C768ABD148}
+		{0F572332-51F3-4A8C-9484-4076FF376ABC} = {22405679-5DA6-4C6D-BF2F-97C768ABD148}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E52CCDB4-0AE5-49AF-8081-ED811CD51ACD}
+	EndGlobalSection
+EndGlobal
